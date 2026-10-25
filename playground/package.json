@@ -27,7 +27,7 @@
     "puppeteer": "^24.7.0",
     "tailwindcss": "^4.1.4",
     "workers-ai-provider": "^0.3.0",
-    "zod": "^3.24.3"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest"
