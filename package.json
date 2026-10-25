@@ -80,7 +80,7 @@
     "@types/node": "^22.14.1",
     "changelogen": "^0.6.1",
     "eslint": "^9.25.1",
-    "nuxt": "^3.16.2",
+    "nuxt": "^4.6.2",
     "typescript": "~5.8.3",
     "vitest": "^3.1.2",
     "vue-tsc": "^2.2.10",
